@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/amartymq/repositories/thecloudguru/
-    - /bin/cp -R site/* $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
     
